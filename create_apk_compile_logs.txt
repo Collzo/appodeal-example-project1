@@ -1,0 +1,109 @@
+Create started: 12:39:35 AM
+"C:\Program Files (x86)\Steam\steamapps\common\gamemaker_studio\GMAssetCompiler.exe" /fU="C:\Users\Collin\AppData\Local\gm_ttt_69568\a47845.txt" /c /m=android   /config="Default" /tgt=8 /obob=True /obpp=False /obru=True /obes=False /i=3 /cvm /tp=1024 /mv=1 /iv=0 /rv=0 /bv=1757 /gn="Appodeal Example Project 1" /td="C:\Users\Collin\AppData\Local" /cd="C:\GameMaker\Cache" /sh=True /dbgp="6502" /hip="192.168.0.8" /hprt="51268" /optionsini="C:\Users\Collin\AppData\Local\gm_ttt_69568\gm_ttt_60330\Appodeal Example Project 1.ini" /o="C:\Users\Collin\AppData\Local\gm_ttt_69568\gm_ttt_60330" "C:\Users\Collin\Documents\GameMaker\Projects\Appodeal Example Project 1.gmx\Appodeal Example Project 1.project.gmx"
+
+Reading project file....finished.
+Compile Constants...finished.
+Remove DnD...finished.
+Compile Scripts...finished.
+Compile Objects...finished.
+Compile Timelines...finished.
+Compile Triggers...finished.
+Compile Rooms...finished.
+Compile Extensions...finished.
+Final Compile...finished.
+Saving IFF file... C:\Users\Collin\AppData\Local\gm_ttt_69568\gm_ttt_60330\Appodeal Example Project 1.droid
+Writing Chunk... GEN8
+Writing Chunk... OPTN
+Writing Chunk... EXTN
+Writing Chunk... SOND
+Writing Chunk... AGRP
+Writing Chunk... SPRT
+Writing Chunk... BGND
+Writing Chunk... PATH
+Writing Chunk... SCPT
+Writing Chunk... SHDR
+Writing Chunk... FONT
+Writing Chunk... TMLN
+Writing Chunk... OBJT
+Writing Chunk... ROOM
+Writing Chunk... DAFL
+Writing Chunk... TPAGE
+Writing Chunk... CODE
+Writing Chunk... VARI
+Writing Chunk... FUNC
+Writing Chunk... STRG
+Writing Chunk... TXTR
+0 Compressing texture... writing texture texture_0.png... 
+Writing Chunk... AUDO
+Writing Chunk... SCPT
+Writing Chunk... DBGI
+Writing Chunk... INST
+Writing Chunk... LOCL
+Writing Chunk... STRG
+Stats : GMA : Elapsed=1692.626
+Stats : GMA : sp=5,au=0,bk=0,pt=0,sc=0,sh=0,fo=2,tl=0,ob=7,ro=1,da=0,ex=2,ma=0,fm=0x8240220
+cmd /c ""C:\Program Files (x86)\Steam\steamapps\common\gamemaker_studio\Android\runner\gradle\gradlew"" build -x assembleDebug
+
+:com.gianttinygames.appodeal_example_project_1:preBuild UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:preReleaseBuild UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:checkReleaseManifest
+:com.gianttinygames.appodeal_example_project_1:preDebugBuild UP-TO-DATE
+:google-play-services_lib:compileLint
+:google-play-services_lib:copyReleaseLint UP-TO-DATE
+:google-play-services_lib:mergeReleaseProguardFiles UP-TO-DATE
+:google-play-services_lib:preBuild UP-TO-DATE
+:google-play-services_lib:preReleaseBuild UP-TO-DATE
+:google-play-services_lib:checkReleaseManifest
+:google-play-services_lib:prepareReleaseDependencies
+:google-play-services_lib:compileReleaseAidl UP-TO-DATE
+:google-play-services_lib:compileReleaseRenderscript UP-TO-DATE
+:google-play-services_lib:generateReleaseBuildConfig UP-TO-DATE
+:google-play-services_lib:generateReleaseAssets UP-TO-DATE
+:google-play-services_lib:mergeReleaseAssets UP-TO-DATE
+:google-play-services_lib:generateReleaseResValues UP-TO-DATE
+:google-play-services_lib:generateReleaseResources UP-TO-DATE
+:google-play-services_lib:packageReleaseResources UP-TO-DATE
+:google-play-services_lib:processReleaseManifest UP-TO-DATE
+:google-play-services_lib:processReleaseResources UP-TO-DATE
+:google-play-services_lib:generateReleaseSources UP-TO-DATE
+:google-play-services_lib:processReleaseJavaRes UP-TO-DATE
+:google-play-services_lib:compileReleaseJavaWithJavac UP-TO-DATE
+:google-play-services_lib:packageReleaseJar UP-TO-DATE
+:google-play-services_lib:compileReleaseNdk UP-TO-DATE
+:google-play-services_lib:packageReleaseJniLibs UP-TO-DATE
+:google-play-services_lib:packageReleaseLocalJar UP-TO-DATE
+:google-play-services_lib:packageReleaseRenderscript UP-TO-DATE
+:google-play-services_lib:bundleRelease UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:prepareComAndroidSupportMultidex101Library UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:prepareComAndroidSupportSupportV42311Library UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:prepareDefaultGooglePlayServices_libUnspecifiedLibrary UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:prepareReleaseDependencies
+:com.gianttinygames.appodeal_example_project_1:compileReleaseAidl UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:compileReleaseRenderscript UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:generateReleaseBuildConfig UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:generateReleaseAssets UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:mergeReleaseAssets
+:com.gianttinygames.appodeal_example_project_1:generateReleaseResValues UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:generateReleaseResources UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:mergeReleaseResources UP-TO-DATE
+:com.gianttinygames.appodeal_example_project_1:processArmeabi-v7aReleaseManifestC:\GameMaker\Cache\Appodeal Example Project 1\Android\Default\com.gianttinygames.appodeal_example_project_1\src\main\AndroidManifest.xml:99:194-309 Error:
+	Element meta-data#com.google.android.gms.version at AndroidManifest.xml:99:194-309 duplicated with element declared at AndroidManifest.xml:53:5-118
+C:\GameMaker\Cache\Appodeal Example Project 1\Android\Default\com.gianttinygames.appodeal_example_project_1\src\main\AndroidManifest.xml:102:1-176 Error:
+	Element activity#com.google.android.gms.ads.AdActivity at AndroidManifest.xml:102:1-176 duplicated with element declared at AndroidManifest.xml:54:5-229
+C:\GameMaker\Cache\Appodeal Example Project 1\Android\Default\com.gianttinygames.appodeal_example_project_1\src\main\AndroidManifest.xml Error:
+	Validation failed, exiting
+ FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':com.gianttinygames.appodeal_example_project_1:processArmeabi-v7aReleaseManifest'.
+> Manifest merger failed with multiple errors, see logs
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 10.529 secs
+Create finished: 12:39:51 AM
